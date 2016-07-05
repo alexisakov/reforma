@@ -9,7 +9,7 @@ else
 end
 %% DATES: major dates
 sfilt = qq(2006,1); % start of filtration
-sfcast = qq(2015,4); % start of forecast
+sfcast = qq(2016,2); % start of forecast
 efcast = qq(2030,4); % end of forecast
 % For reports:
 srpt_filt = sfilt; % start of filtration report
