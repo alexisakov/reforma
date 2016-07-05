@@ -6,4 +6,3 @@ reforma is short for Russian Economy FORcasting Model.
 It is a standard quarterly projection model (QPM) as promoted by the (Laxton, et. al, XXXX).
 
 
-# adf 
